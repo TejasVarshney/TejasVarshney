@@ -20,7 +20,3 @@ CS student at **Scaler School of Technology**. I like building things end to end
 | [**Search Typeahead**](https://github.com/TejasVarshney/search-typeahead) | Typeahead over 92k queries: top-K trie, distributed LRU cache on a consistent-hash ring, recency-aware trending, batched writes. ~1–3 ms warm latency. | Python · FastAPI · SQLite · Docker |
 | [**DevSecOps Pipeline**](https://github.com/TejasVarshney/devsecops_demo) | Flask app with a full CI/CD pipeline: tests → CodeQL SAST → pip-audit → Docker build → Trivy scan → GHCR → Kubernetes deploy. | Flask · GitHub Actions · K8s |
 | [**Persona.AI**](https://github.com/TejasVarshney/genai-persona-bot) | Chatbot with three distinct personas built purely through system-prompt design. [Live demo](https://persona-ai-chatbot-phi.vercel.app/) | React · Express · OpenRouter |
-
-### 📊 GitHub stats
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVarshney&layout=compact&hide_border=true&theme=transparent)
